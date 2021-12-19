@@ -1,1 +1,2 @@
-# Project-1-Blogging-site
+# BlogSiteRadiumStar
+MIni Blog Site Project of FunctionUP
